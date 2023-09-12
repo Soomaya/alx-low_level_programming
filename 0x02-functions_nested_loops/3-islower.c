@@ -1,12 +1,8 @@
-#include "main.h"
 /**
-  * _islower - Show 1 if the input is a
-  * lowercase character. Another cases,
-  *  shows 0
-  * @c : the character in ACSII code
-  *
-  * Return: 1 for lowercase character. 0 for the rest
-  */
+ * main - check the code.
+ *
+ * Return: Always 0.
+ */
 int main(void)
 {
 	int r;
